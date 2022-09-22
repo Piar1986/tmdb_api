@@ -11,15 +11,15 @@
 
 ## hello_api_TMDB.py
 
-Используется для проерки `API` ключа. Просит ввести `API` ключ.
+Используется для проверки `API` ключа. Просит пользователя ввести `API` ключ.
 
 Если ключ подошел:
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/58470881/191806793-50108955-a83a-43d3-9cee-ba493259d3b4.png)
 
 Если ключ не подошел:
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/58470881/191808398-c8295842-9ee2-4a69-b13b-a733fdf0da49.png)
 
 ## make_own_db.py
 
@@ -27,22 +27,22 @@
 
 Отображает прогресс в процентах:
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/58470881/191808365-59eb0cba-e656-4b9a-acf2-52ab37ca8026.png)
 
 
 ## search_in_db.py
 
 Поиск фильма в базе данных по его названию:
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/58470881/191808329-05bb14db-c946-49c2-995b-e6087a62c417.png)
 
 ## find_similar.py
 
-Поиск похожих фильмов для введенного названия фильма.
+Поиск похожих фильмов в локальной базе по введенному названию фильма.
 
 В результате выводит список из 8 фильмов: 
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/58470881/191808381-d1c4e440-5f43-4bbe-ae5f-87a7cafb91a5.png)
 
 ## own_db_helpers.py
 
